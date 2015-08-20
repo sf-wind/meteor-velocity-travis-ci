@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #configuring the system
-wget https://raw.github.com/arunoda/travis-ci-meteor-packages/master/Makefile
+wget https://raw.githubusercontent.com/sf-wind/meteor-velocity-travis-ci/master/Makefile
 
 #install meteor
 curl https://install.meteor.com | /bin/sh
